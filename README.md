@@ -12,7 +12,7 @@ Example:
 Association Rule Mining:
 A (IF) -> B (THEN)
 
-# There are three type of matrices which help to measure the association algorithm
+# There are two type of matrices which help to measure the association algorithm
 <p>
 1. Support 
 Is the frequency of the items brought, Filter out the items which are not frequent bought.
