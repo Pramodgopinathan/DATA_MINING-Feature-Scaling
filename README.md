@@ -25,3 +25,10 @@ How offend the items A and B occur together, like if person bought A and B but n
 
 # How does it work?
 ![](https://github.com/Pramodgopinathan/DATA_MINING-Frequent-Patterns/blob/d07e8f55e17ec0d53d44949194bc7c1447a40007/Apriori%20Alogrithm.png)
+
+# Association Rule
+
+computer -> antivirus_software [support = 2%, confidence = 60%]
+<br>A support of 2% means that 2% of all the transactions under analysis show that computer and antivirus software are purchased together </br>
+<br>A confidence of 60% means that 60% of the customers who purchased a computer also bought the software. </br>
+<br>Association rules are considered interesting if they satisfy both a minimum support threshold and minimum confidence threshold.</br>
