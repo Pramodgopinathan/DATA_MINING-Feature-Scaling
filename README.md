@@ -1,7 +1,7 @@
 # Frequent Patterns
 How many time patterns have appear in the dataset.
 
-# Why?
+# Abstract?
 It help us to understand the relationships among data. By identifying frequent patterns we can observe strongly correlated items togethers and easily identify similar characteristics and association among them.
 
 # Market Basket Analysis:
@@ -12,7 +12,7 @@ Example:
 Association Rule Mining:
 A (IF) -> B (THEN)
 
-# There are three type of matrices which help to measure the association algorithm
+# There are two type of matrices which help to measure the association algorithm
 <p>
 1. Support 
 Is the frequency of the items brought, Filter out the items which are not frequent bought.
