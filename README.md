@@ -1,7 +1,7 @@
 # Frequent Patterns
 How many time patterns have appear in the dataset.
 
-# Why?
+# Abstract
 It help us to understand the relationships among data. By identifying frequent patterns we can observe strongly correlated items togethers and easily identify similar characteristics and association among them.
 
 # Market Basket Analysis:
