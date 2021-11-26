@@ -12,7 +12,7 @@ Example:
 Association Rule Mining:
 A (IF) -> B (THEN)
 
-# There are two type of matrices which help to measure the association algorithm
+# There are three type of matrices which help to measure the association algorithm
 <p>
 1. Support 
 Is the frequency of the items brought, Filter out the items which are not frequent bought.
@@ -32,3 +32,12 @@ computer -> antivirus_software [support = 2%, confidence = 60%]
 <br>A support of 2% means that 2% of all the transactions under analysis show that computer and antivirus software are purchased together </br>
 <br>A confidence of 60% means that 60% of the customers who purchased a computer also bought the software. </br>
 <br>Association rules are considered interesting if they satisfy both a minimum support threshold and minimum confidence threshold.</br>
+
+
+# <br>In general, association rule mining can be viewed as a two-step process: </br>
+
+<br>
+1. Find all frequent itemsets By definition, each of these itemsets will occur atleast as frequently as a predetermined minimum support count, min_support </br>
+
+<br>
+2. Generate strong association rules from the frequent itemsets: By definition, these rules must satisfy minimum support and minimum confidence.
