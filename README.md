@@ -1,7 +1,7 @@
 # Frequent Patterns
 How many time patterns have appear in the dataset.
 
-# Abstract
+# Why?
 It help us to understand the relationships among data. By identifying frequent patterns we can observe strongly correlated items togethers and easily identify similar characteristics and association among them.
 
 # Market Basket Analysis:
@@ -30,7 +30,7 @@ How offend the items A and B occur together, like if person bought A and B but n
 
 computer -> antivirus_software [support = 2%, confidence = 60%]
 <br>A support of 2% means that 2% of all the transactions under analysis show that computer and antivirus software are purchased together </br>
-<br>A confidence of 60% means that 60% of the customers who purchased a computer also bought the software. </br>
+<br>A confidence of 60% means that 60% of the customers who purchased a computer also bought the software. Confidence tells about the number of times these relationships have been found to be true. </br>
 <br>Association rules are considered interesting if they satisfy both a minimum support threshold and minimum confidence threshold.</br>
 
 
